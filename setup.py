@@ -13,7 +13,7 @@ setuptools.setup(
     description='Developer Tools for Drones.',
     long_description_content_type="text/markdown",
     long_description=LongDescription,
-    url='https://github.com/dronekit/dronekit-python',
+    url='https://github.com/mfaris16/dronekit-python',
     author='3D Robotics',
     install_requires=[
         'pymavlink>=2.2.20',
